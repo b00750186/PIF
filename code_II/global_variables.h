@@ -33,7 +33,7 @@ using namespace std;
 //#define relax_w
 //#define relax_z
 //#define relax_y
-#define use_lp_solver
+//#define use_lp_solver
 
 #define write_prob
 //#define write_prob_call_back
