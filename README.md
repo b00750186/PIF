@@ -1,7 +1,6 @@
 # PIF
 This site contains accompanying material to the paper:
-**New Formulations for Two Location Problems with Interconnected Facilities**
-Kuzbakov, Yerlan, and Ivana Ljubić. "New formulations for two location problems with interconnected facilities." European Journal of Operational Research (2023).
+Kuzbakov, Yerlan, and Ivana Ljubić. "**New formulations for two location problems with interconnected facilities.**" European Journal of Operational Research (2023).
 
 [https://doi.org/10.1016/j.ejor.2023.09.030](https://doi.org/10.1016/j.ejor.2023.09.030)
 
